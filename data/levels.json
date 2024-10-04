@@ -1,0 +1,38 @@
+[
+    {
+        "title": "HTML Jungle",
+        "description": "Create a basic HTML structure for a jungle-themed webpage.",
+        "challengeType": "code",
+        "expectedCode": "<header>\n    <h1>Welcome to the Jungle</h1>\n</header>\n<main>\n    <p>Explore the wild!</p>\n</main>\n<footer>\n    <p>&copy; 2024 Jungle Adventures</p>\n</footer>",
+        "xp": 10
+    },
+    {
+        "title": "CSS City",
+        "description": "Style your webpage with vibrant colors and layouts.",
+        "challengeType": "code",
+        "expectedCode": "body {\n    background-color: #4db6ac;\n}\nheader {\n    color: white;\n    text-align: center;\n}",
+        "xp": 15
+    },
+    {
+        "title": "JavaScript Space",
+        "description": "Make a button that alerts 'Blast Off!' when clicked.",
+        "challengeType": "code",
+        "expectedCode": "document.getElementById('blastButton').addEventListener('click', function() {\n    alert('Blast Off!');\n});",
+        "xp": 20
+    },
+    {
+        "title": "Debugging Challenge",
+        "description": "Find and fix the errors in the following code.",
+        "challengeType": "debug",
+        "codeSnippet": "function greet() {\n    console.log('Hello, world!'\n}\ngreet();",
+        "expectedOutput": "Hello, world!",
+        "xp": 25
+    },
+    {
+        "title": "CSS Animation",
+        "description": "Animate a box to move across the screen.",
+        "challengeType": "animation",
+        "expectedCode": "@keyframes move {\n    from { transform: translateX(0); }\n    to { transform: translateX(100%); }\n}\n.box {\n    animation: move 2s infinite;\n}",
+        "xp": 30
+    }
+]
