@@ -1,0 +1,22 @@
+[
+    {
+        "title": "HTML Basics",
+        "content": "HTML (Hypertext Markup Language) is the standard language for creating webpages. It uses tags to structure content. Common tags include <header>, <main>, <footer>, <h1> - <h6>, <p>, and <div>. A basic HTML document includes a doctype declaration, an html tag, and the head and body sections."
+    },
+    {
+        "title": "CSS Basics",
+        "content": "CSS (Cascading Style Sheets) is used to style and layout webpages. It can control the color, font, spacing, and positioning of HTML elements. Use selectors, properties, and values to apply styles. CSS rules are made up of selectors that target HTML elements and declarations enclosed in curly braces."
+    },
+    {
+        "title": "JavaScript Basics",
+        "content": "JavaScript is a programming language that adds interactivity to webpages. You can manipulate HTML elements, handle events, and perform calculations with JavaScript. Learn about functions, variables, and events. JavaScript code can be included in a script tag or linked as an external file."
+    },
+    {
+        "title": "Debugging Basics",
+        "content": "Debugging is the process of identifying and fixing errors in code. Use console.log() to track variable values and inspect the flow of your code. Look for syntax errors (e.g., missing parentheses) and logic errors (e.g., incorrect conditions). Tools like the browser console can help you debug."
+    },
+    {
+        "title": "CSS Animation Basics",
+        "content": "CSS animations allow you to animate transitions from one CSS style to another. You can use the @keyframes rule to define the animation and then apply it using the animation property. Animations can control properties such as transform, opacity, and color over time."
+    }
+]
